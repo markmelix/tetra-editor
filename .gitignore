@@ -1,0 +1,9 @@
+venv
+target
+__pycache__
+*.sqlite
+*.db
+*.ignore
+build
+dist
+main.spec
